@@ -1,0 +1,9 @@
+body {
+  background-color: blue;
+}
+
+.card {
+  background-color: azure;
+  height: 200px;
+  width: 300px;
+}
